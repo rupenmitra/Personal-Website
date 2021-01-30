@@ -17,11 +17,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+Research Interests:
 - 5G Network Security
+- Networks and Systems
+- Application of machine learning in networking
 - Adversarial risks of machine learning in mobile networking
-- Application of Machine Learning in networking
-- Computer Networks and Systems
 
 
 # Education to show in About widget
