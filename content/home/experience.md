@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Industry Experience
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: 5G RAN Intern
+    company: Ericsson
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Plano, TX, USA
+    date_start: '2015-02-10'
+    date_end: '2015-05-23'
     description: |2-
         Responsibilities include:
+        5G initiatives, Engagement practice, Radio portfolio management activities, Mobile broadband 
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: RF Planning Engineer
+    company: Nokia Siemens Netowkrs
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Kolkata, India
+    date_start: '2010-05-10'
+    date_end: '2013-08-03'
+    description: Key Contributions:
+          Planned capacity networks that catered 12% increased traffics for the Vodafone account within a single quarter. Was the key resource to develop data visualization and mining for network and business analysis
+          Network Planning \& Optimization:
+          coverage & capacity planning, neighbor handover and frequency planning, network dimensioning, KPI provisioning, Dashboard validation, customer complain solution, budgeting for capacity enhancement, customer engagement practice.
 ---
