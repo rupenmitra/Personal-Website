@@ -31,9 +31,9 @@ education:
     institution: The Ohio State University
     year: 2018
   - course: MS in Computer Science & Engineering 
-    institution: Massachusetts Institute of Technology
+    institution: University of Cincinnati
     year: 2015
-  - course: B.Tech in Electronics & Communication Engineering
+  - course: Bachelor of Technology in Electronics & Communication Engineering
     institution: West Bengal University of Technology
     year: 2009
 
