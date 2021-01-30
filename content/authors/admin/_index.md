@@ -71,7 +71,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a doctoral student in the [School of Informatics](https://www.ed.ac.uk/informatics) at [The University of Edinburgh](https://www.ed.ac.uk/), UK. I am working in the research group led by [Dr. Mahesh K. Marina](http://homepages.inf.ed.ac.uk/mmarina/). Broadly, my research interests sprawl in the cross-section of Networked-Systems, Applied Machine Learning, and Network Security. I received MS degrees in computer science and engineering from [The Ohio State University](https://www.osu.edu/) and the [University of Cincinnati](https://www.uc.edu/), OH, USA.
+I am a doctoral student in the [School of Informatics](https://www.ed.ac.uk/informatics) at [The University of Edinburgh](https://www.ed.ac.uk/), UK. I am working in the research group led by [Prof. Mahesh K. Marina](http://homepages.inf.ed.ac.uk/mmarina/). Broadly, my research interests sprawl in the cross-section of Networked-Systems, Applied Machine Learning, and Network Security. I received MS degrees in computer science and engineering from [The Ohio State University](https://www.osu.edu/) and the [University of Cincinnati](https://www.uc.edu/), OH, USA.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
