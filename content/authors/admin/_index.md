@@ -21,12 +21,15 @@ interests:
 - 5G Network Security
 - Networks and Systems
 - Application of machine learning in networking
-- Adversarial risks of machine learning in mobile networking
+- Adversarial risks of machine learning in 5G
 
 
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. in Computer Science & Engineering
+  - institution: The University of Edinburgh
+    year: 2019- Present
   - course: MS in Computer Science & Engineering
     institution: The Ohio State University
     year: 2018
