@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2021-02-05"
-  description: "My recent blog "Are 5G’s Enabling Technologies Making it Vulnerable to Cyberattacks?" discusses a set of emerging cybersecurity threats that Machine Learning, NFV, SDN, IoT --the key enablers of the 5G network- invite to the telecom world"
+  description: "My recent blog discusses a set of emerging cybersecurity threats that Machine Learning, NFV, SDN, IoT - the key enablers of the 5G network - invite to the telecom world"
   organization: Medium
   organization_url: 
   title: Are 5G’s Enabling Technologies Making it Vulnerable to Cyberattacks?
