@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Blog Posts"
-  url = "#posts"
+  url = "#blog"
   weight = 60
   
  
