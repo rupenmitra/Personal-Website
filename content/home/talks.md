@@ -35,7 +35,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2018-08-15"
-  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering"
   organization: The Ohio State University 
   organization_url: 
   title: Autumn 2018<br>[OSU CSE 2123] Data Structures Using Java
@@ -44,7 +44,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2018-01-15"
-  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering"
   organization: The Ohio State University 
   organization_url: 
   title: Spring 2018<br>[OSU CSE 1223] Introduction to Computer Programming In Java
@@ -53,7 +53,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2017-08-15"
-  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering"
   organization: The Ohio State University 
   organization_url: 
   title: Autumn 2017<br>[OSU CSE 1223] Introduction to Computer Programming In Java
@@ -62,7 +62,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2017-01-15"
-  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering"
   organization: The Ohio State University 
   organization_url: 
   title: Spring 2017<br>[OSU CSE 1223] Introduction to Computer Programming In Java
@@ -72,7 +72,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2016-08-15"
-  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering"
   organization: The Ohio State University 
   organization_url: 
   title: Autumn 2016<br>[OSU CSE 1223] Introduction to Computer Programming In Java
