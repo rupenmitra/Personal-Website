@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 design:
-weight: 90
+#weight: 90
 title: Recent News
 
 # Choose how many columns the section has. Valid values: 1 or 2.
