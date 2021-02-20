@@ -1,34 +1,37 @@
 ---
-widget: experience
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: blank
+
+# Activate this widget? true/false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 15
 
 title: Recent News
 subtitle:
 
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: ' '
-    company: ' '
-    company_url: ''
-    location: ''
-    date_start: ' '
-    date_end: ' '
-    description: |2-
-        Responsibilities include:
-        5G initiatives, Engagement practice, Radio portfolio management activities, Mobile broadband 
-
-
+design:
+  columns: "1"
+ 
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
 ---
+
+Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+
+[Explore similar templates](https://wowchemy.com/templates/)
+
+**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+
+**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
+
+{{% callout note %}}
+This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
+
+Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+{{% /callout %}}
