@@ -20,12 +20,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: '5G RAN Intern'
-    company: 'Ericsson'
+  - title: ''
+    company: ''
     company_url: ''
-    location: 'Plano, TX, USA'
-    date_start: '2015-02-10'
-    date_end: '2015-05-23'
+    location: ''
+    date_start: ''
+    date_end: ''
     description: |2-
         Responsibilities include:
         5G initiatives, Engagement practice, Radio portfolio management activities, Mobile broadband 
