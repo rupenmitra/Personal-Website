@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2021-02-01"
-  description: "Teaching Assistant/Marker"
+  description: "Teaching Assistant/Marker for the undergrad level course offered in the School of Informatics"
   organization: The University of Edinburgh
   organization_url: 
   title: Spring 2021<br>[UoE COMN] Computer Communications and Networks [Sem2]
@@ -34,18 +34,47 @@ item:
   
 - certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  date_start: "2018-08-15"
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  organization: The Ohio State University 
+  organization_url: 
+  title: [OSU CSE 2123] Data Structures Using Java
+  url: http://web.cse.ohio-state.edu/cse2123/
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2018-01-15"
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  organization: The Ohio State University 
+  organization_url: 
+  title: [OSU CSE 1223] Introduction to Computer Programming In Java
+  url: http://web.cse.ohio-state.edu/cse1223/
+  
+  - certificate_url: 
+  date_end: ""
+  date_start: "2017-08-15"
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  organization: The Ohio State University 
+  organization_url: 
+  title: [OSU CSE 1223] Introduction to Computer Programming In Java
+  url: http://web.cse.ohio-state.edu/cse1223/
+  
+  - certificate_url: 
+  date_end: ""
+  date_start: "2017-01-15"
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  organization: The Ohio State University 
+  organization_url: 
+  title: [OSU CSE 1223] Introduction to Computer Programming In Java
+  url: http://web.cse.ohio-state.edu/cse1223/
+  
+  
+  - certificate_url: 
+  date_end: ""
+  date_start: "2016-08-15"
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  organization: The Ohio State University 
+  organization_url: 
+  title: [OSU CSE 1223] Introduction to Computer Programming In Java
+  url: http://web.cse.ohio-state.edu/cse1223/
 ---
