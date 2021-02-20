@@ -16,7 +16,7 @@ title: Recent News
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
  
   spacing:
     padding: ["20px", "0", "20px", "0"]
