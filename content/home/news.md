@@ -10,6 +10,6 @@ design:
 
 # ... Put Your Section Options Here (title etc.) ...
   weight: 90
-  title: Recent News
+  title: 'Recent News'
 
 ---
