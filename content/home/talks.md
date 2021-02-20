@@ -32,5 +32,13 @@ item:
   title: Spring 2021<br>[UoE COMN] Computer Communications and Networks [Sem2]
   url: "https://course.inf.ed.ac.uk/comn"
   
-
+  - certificate_url: 
+  date_end: ""
+  date_start: "2018-08-15"
+  description: "Full Instructor for Undergrad/grad level course offered by the Department of Computer Science & Engineering
+  organization: The Ohio State University 
+  organization_url: 
+  title: Autmn 2018<br>[OSU CSE 2123] Data Structures Using Java
+  url: http://web.cse.ohio-state.edu/cse2123/
+  
 ---
