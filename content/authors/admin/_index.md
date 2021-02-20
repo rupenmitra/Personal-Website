@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science & Engineering
-  - institution: The University of Edinburgh
+    institution: The University of Edinburgh
     year: 2019 - Present
   - course: MS in Computer Science & Engineering
     institution: The Ohio State University
