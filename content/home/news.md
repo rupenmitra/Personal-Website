@@ -34,11 +34,11 @@ Our paper "5G Mobile Networks Security Landscape and Major Risks" to appear in [
 * **[January 2020 - September 2020] Curriculum Mapping**  
 [College of Arts, Humanities and Social Science (CAHSS)](https://www.ed.ac.uk/arts-humanities-soc-sci) at The university of Edinburgh has chosen me to help designing a college-level curriculum mapping project
 
-* **[September 2019] Attended summer school **  
+* **[September 2019] Attended summer school**  
 Attended summer school on "Security and Correctness" on the beautiful campus of the Graz University of Technology, Austria 
 
 * **[September 2019] Attended summer schools**  
 Attended two summer schools on "Cyber-Physical System Security" and "System Security" on the beautiful campus of the University of Padua, Italy 
 
-* **[July 2019]ACM IMC Shadow PC **  
+* **[July 2019]ACM IMC Shadow PC**  
 Participated in [IMC shadow PC 2019](https://conferences.sigcomm.org/imc/2019/shadow/) on the beautiful campus of Queen Mary University of London 
