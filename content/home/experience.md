@@ -28,7 +28,7 @@ experience:
     location: 'Plano, TX, USA'
     date_start: '2015-02-10'
     date_end: '2015-05-23'
-    description: >-
+    description: |2-
         Responsibilities include:
         5G initiatives, Engagement practice, Radio portfolio management activities, Mobile broadband 
         
@@ -38,7 +38,7 @@ experience:
     location: 'Kolkata, India'
     date_start: '2010-05-10'
     date_end: '2013-08-03'
-    description: >-
+    description: |2-
         Key Contributions:
         Planned capacity networks that catered 12% increased traffics for the Vodafone account within a single quarter. Was the key resource to develop data visualization and mining for network and business analysis
         Network Planning \& Optimization:
