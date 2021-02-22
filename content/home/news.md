@@ -25,7 +25,7 @@ design:
 * **[January 2021] Paper now published in IEEE Internet Computing**  
 Our paper "Examining Machine Learning for 5G and Beyond through an Adversarial Lens" is now accepted and to appear on [IEEE Internet Computing Special Issue on AI-Powered 5G Services](https://ieeexplore.ieee.org/document/9314254)
   
-* **[September 2020] Paper now available on arxiv**  
+* **[September 2020] Preprint now available on arxiv**  
 Our paper "Examining Machine Learning for 5G and Beyond through an Adversarial Lens" is now available on [https://arxiv.org/abs/2009.02473](https://arxiv.org/abs/2009.02473)
 
 * **[September 2020] Paper to appear in Wiley 5G ref (September 2020)**  
@@ -40,5 +40,5 @@ Attended summer school on "Security and Correctness" on the beautiful campus of 
 * **[September 2019] Attended summer schools**  
 Attended two summer schools on "Cyber-Physical System Security" and "System Security" on the beautiful campus of the University of Padua, Italy 
 
-* **[July 2019]ACM IMC Shadow PC**  
+* **[July 2019] ACM IMC Shadow PC**  
 Participated in [IMC shadow PC 2019](https://conferences.sigcomm.org/imc/2019/shadow/) on the beautiful campus of Queen Mary University of London 
