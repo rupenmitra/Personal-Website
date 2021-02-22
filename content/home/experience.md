@@ -29,7 +29,7 @@ experience:
     date_start: '2015-02-10'
     date_end: '2015-05-23'
     description: |2-
-        **Responsibilities include:**
+        **Key Responsibilities:**
         5G initiatives, Engagement practice, Radio portfolio management activities, Mobile broadband 
         
   - title: 'RF Planning Engineer'
