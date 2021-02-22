@@ -42,5 +42,5 @@ experience:
         **Key Contributions:**
         Planned capacity networks that catered 12% increased traffics for the Vodafone account within a single quarter. Was the key resource to develop data visualization and mining for network and business analysis.        
         **Network Planning \& Optimization:**
-        coverage & capacity planning, neighbor handover and frequency planning, network dimensioning, KPI provisioning, Dashboard validation, customer complain solution, budgeting for capacity enhancement, customer engagement practice.
+        Coverage & capacity planning, handover and frequency planning, network dimensioning, KPI provisioning, Dashboard validation, customer complain solution, budgeting for capacity enhancement, customer engagement practice.
 ---
