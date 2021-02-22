@@ -29,7 +29,7 @@ experience:
     date_start: '2015-02-10'
     date_end: '2015-05-23'
     description: |2-
-        Responsibilities include:
+        **Responsibilities include:**
         5G initiatives, Engagement practice, Radio portfolio management activities, Mobile broadband 
         
   - title: 'RF Planning Engineer'
@@ -39,8 +39,8 @@ experience:
     date_start: '2010-05-10'
     date_end: '2013-08-03'
     description: |2-
-        Key Contributions:
+        **Key Contributions:**
         Planned capacity networks that catered 12% increased traffics for the Vodafone account within a single quarter. Was the key resource to develop data visualization and mining for network and business analysis
-        Network Planning \& Optimization:
+        **Network Planning \& Optimization:**
         coverage & capacity planning, neighbor handover and frequency planning, network dimensioning, KPI provisioning, Dashboard validation, customer complain solution, budgeting for capacity enhancement, customer engagement practice.
 ---
