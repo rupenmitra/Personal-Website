@@ -25,7 +25,7 @@ experience:
   - title: '5G RAN Intern'
     company: 'Ericsson'
     company_url: ''
-    location: 'Plano, TX, USA'
+    location: 'Plano, Texas, USA'
     date_start: '2015-02-10'
     date_end: '2015-05-23'
     description: |2-
